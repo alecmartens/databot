@@ -1,6 +1,6 @@
 # databot
 Discord Bot (Databot)\
-The project that I worked on was coding a Discord bot. This bot was coded in Visual Studio Code, and it uses Node JS and Discord JS. It is also connected to a MySQL database.\
+This is a Discord bot. This bot was coded in Visual Studio Code, and it uses Node JS and Discord JS. It is also connected to a MySQL database.\
 Features:\
 #flip: Flips a coin and adds the record (heads or tails) into the SQL database.\
 #roll: Rolls a die and add the record (1-6) into the SQL database.\
