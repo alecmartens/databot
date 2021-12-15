@@ -1,0 +1,2 @@
+# databot
+Discord Bot (Databot)
